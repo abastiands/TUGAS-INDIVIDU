@@ -1,9 +1,9 @@
 # TUGAS INDIVIDU
 Tugas Individu Pemrograman Visual dan Pemrograman WEB
 
-Nama : Abastian Dwi Saputra
-NIM : 18051204027
-Kelas : TI 2018 A
+# Nama : Abastian Dwi Saputra
+# NIM : 18051204027
+# Kelas : TI 2018 A
 
 # Tugas Pemrograman Visual :
 
