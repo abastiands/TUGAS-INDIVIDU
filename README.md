@@ -11,11 +11,11 @@ Link Repository : https://github.com/abastiands/Kalkulator.git
 
 Link Repository : https://github.com/abastiands/Form-Ekspedisi.git
 
-# 3. Optional 1 (Form CRUD)
+# 3. Tugas Optional 1 (Form CRUD)
 
 Link Repository : https://github.com/abastiands/Form-Menu.git
 
-# 4. Optional 2 (Simple Form Using WPF)
+# 4. Tugas Optional 2 (Simple Form Using WPF)
 
 Link Repository : https://github.com/abastiands/Simple-Form.git
 
@@ -25,6 +25,6 @@ Link Repository : https://github.com/abastiands/Simple-Form.git
 
 Link Repository : https://github.com/abastiands/Portofolio.git
 
-# 2. Tugas Optional (Simple CRUD)
+# 2. Tugas Optional 1 (Simple CRUD)
 
 Link Repository : https://github.com/abastiands/Simple-CRUD.git
