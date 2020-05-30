@@ -36,3 +36,7 @@ Link Repository : https://github.com/abastiands/Portofolio.git
 # 2. Tugas Optional 1 (Simple CRUD)
 
 Link Repository : https://github.com/abastiands/Simple-CRUD.git
+
+# 3. Tugas Optional 2 (Simple WEB)
+
+Link Repository : https://github.com/abastiands/Simple-WEB.git
